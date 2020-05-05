@@ -1,10 +1,5 @@
 //Assign 6, Manage MovieDatabase
 /*
-CIS2168 04 Fall 2019 Data Structures
-Alexandro Drogo
-tuj78444@temple.edu
-Assignment 6
-
 Program Description: Create movie database using linked lists and array lists.
  */
 package assign6p2_template;
